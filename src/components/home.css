@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.header{
+    background-color: blueviolet;
+    color: white;
+    padding: 20px;
+}
+
+.userCommitDivs{
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 10px;
+
+}
+
+.subbtn{
+    background-color: blueviolet;
+}
